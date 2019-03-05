@@ -1,5 +1,5 @@
 # My Name is Marco
-Ny name is Marco, I an 16 Years Old. 
+I am 16 Years Old. I like skating and hanging with my friends!
 
 # Rotation Projects
 ## Rock Paper Scissors
