@@ -7,3 +7,7 @@ I am 16 Years Old. I like skating and hanging with my friends!
 
 ## BlackJack
 [BlackJack link](https://BlackJack.marcotortilla1.repl.run)
+
+## Game Hub Center
+This game hub inclues my blackjack game, Kevin's hangman game, and RJ's trivia game
+[GameHub]()
